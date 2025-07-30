@@ -1,0 +1,79 @@
+RESUME 
+PAVAN MALI 
++91 7249830281 |  Email : pavanmali0281@gmail.com  
+ GitHub: https://github.com/PAVAN2627  LinkedIn: https://www.linkedin.com/in/pavan-mali-1808b6273  
+  
+ 
+Summary 
+ 
+Enthusiastic and detail-oriented Software Developer with hands-on experience in full-stack web 
+development, object-oriented programming, and AI-based applications. Proficient in Python, 
+Java, C++, and frameworks like Flask and Bootstrap. Skilled in REST API integration, database 
+management (MySQL, Oracle), and version control (Git/GitHub). Passionate about building 
+scalable, user-centric software solutions and delivering high-impact projects. 
+ Education 
+ 
+• Bachelor of Engineering (B.E) - Information Technology   
+MMCOE Pune | Pursuing (Expected Graduation: July 2027) | 3rd Year   
+• Diploma - Information Technology   
+ABIT Shendre | June 2024 | Percentage: 91.88% 
+Projects 
+ 
+AI Job Mentor 
+AI-Powered Resume Screening & Career Guidance Tool 
+• 
+Developed a web-based platform using Python (Flask) for resume parsing, job-role 
+matching, and personalized upskilling recommendations. 
+• 
+Implemented NLP-based skill extraction (SpaCy, PyMuPDF) and job matching using 
+GPT-4 (Azure OpenAI). 
+• 
+Generated career reports highlighting skill gaps, job market insights, and 
+personalized learning roadmaps. 
+• 
+Enabled PDF report downloads, email delivery via PHPMailer, and a dashboard to 
+track past analyses. 
+GitHub: github.com/PAVAN2627/AI-Job-Mentor 
+Work Experience 
+ 
+Android App Development Intern 
+Microdynamic Software Private Limited, Narhe Pune | June 2023 - July 2023 
+• 
+Collaborated with cross-functional teams to integrate new features, improving app functionality 
+by 20%. 
+• 
+Resolved 15+ post-launch bugs, enhancing customer satisfaction by 25%. 
+• 
+Improved application stability by 25% using Layout Inspector in Android Studio. 
+ 
+ 
+ 
+ 
+ 
+Technical Skills 
+ 
+ 
+• 
+Languages: Java, Python, C++, C, HTML, CSS, PHP 
+• 
+Frameworks & Libraries: Flask, Bootstrap, SpaCy, PyMuPDF, Chart.js 
+• 
+Web Development: Full-Stack Development, REST APIs, UI/UX Design 
+• 
+Tools: Git, GitHub, PHPMailer, Android Studio 
+• 
+Databases: MySQL, Oracle 
+• 
+Other: Object-Oriented Programming (OOP), Version Control, Debugging, SDLC 
+Certifications 
+ 
+ 
+• 
+Building LLM Applications With Prompt Engineering | June 2025 
+• 
+CodeRush Hackthon Winner | June 2025 
+• 
+Participation of AlgoVerse 2025 Hackthon | July 2025 
+ 
+ 
+ 
