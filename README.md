@@ -9,7 +9,6 @@ SmartHire is a full-stack platform that empowers users to upload, analyze, and i
 - **ATS Score & Suggestions:** Get an AI-generated ATS compatibility score and actionable tips to improve your resume for automated screening systems.
 - **Job Recommendations:** Receive personalized job role suggestions based on your skills and current market demand.
 - **Learning Plans:** Get an 8-week learning plan with weekly tasks to build the skills needed for your target job roles.
-- **Resume Report PDF:** Download a comprehensive AI-generated report as a PDF.
 - **Resume Builder with Multiple Templates:** Easily create a new resume from scratch using a guided builder and choose from multiple modern templates. Download your resume as PDF.
 - **History & Progress:** View your past uploads, recommendations, and progress in a beautiful dashboard.
 - **User Authentication:** Secure registration, login, and OTP email verification.
