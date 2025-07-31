@@ -3,6 +3,7 @@
 SmartHire is a full-stack platform that empowers users to upload, analyze, and improve their resumes using advanced AI. The platform provides ATS (Applicant Tracking System) compatibility scoring, actionable suggestions, personalized job recommendations, and learning plans to help users achieve their career goals.
 
 
+
 ## Features
 
 - **Resume Upload & Analysis:** Upload your resume (PDF) and receive a detailed analysis of your skills and gaps.
