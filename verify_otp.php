@@ -1,7 +1,6 @@
 <?php
 ob_start(); // Start output buffering to prevent stray output
 session_start();
-
 // Step 1: DB connection
 $host = "localhost";
 $dbname = "smarthire";
