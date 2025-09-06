@@ -4,7 +4,6 @@ import os
 import requests
 import json
 import logging
-
 # Set up logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 
