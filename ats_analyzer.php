@@ -7,7 +7,6 @@ $apiEndpoint = 'http://localhost:5000/ats-analyze'; // Adjust to your Flask serv
 $uploadDir = 'Uploads/';
 $allowedTypes = ['application/pdf'];
 $maxFileSize = 5 * 1024 * 1024; // 5MB
-
 // Initialize variables
 $score = null;
 $key_points = [];
