@@ -7,6 +7,7 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
+
 $userId = $_SESSION['user_id'];
 try {
     $pdo = new PDO("mysql:host=localhost;dbname=smarthire", "root", "");
