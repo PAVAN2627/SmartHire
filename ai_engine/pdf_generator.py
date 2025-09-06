@@ -2,6 +2,7 @@ from fpdf import FPDF
 from flask import Flask, jsonify, request
 import os
 
+
 app = Flask(__name__)
 
 def generate_result_pdf(resume_data, recommendations, output_path):
