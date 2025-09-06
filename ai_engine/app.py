@@ -7,6 +7,7 @@ import traceback
 
 app = Flask(__name__)
 
+
 # Load Azure OpenAI configuration from environment variables
 AZURE_OPENAI_ENDPOINT = os.environ.get('AZURE_OPENAI_ENDPOINT')
 AZURE_OPENAI_KEY = os.environ.get('AZURE_OPENAI_KEY')
