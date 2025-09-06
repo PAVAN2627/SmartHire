@@ -1,6 +1,5 @@
 <?php
 session_start();
-
 // Step 1: DB connection
 $host = "localhost";
 $dbname = "smarthire";
