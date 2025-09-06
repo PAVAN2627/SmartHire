@@ -1,6 +1,7 @@
 install-dev-tools:
 	composer update --working-dir=dev-tools
 
+
 run-php-cs-fixer:
 	dev-tools/vendor/bin/php-cs-fixer fix $(ARGS)
 
