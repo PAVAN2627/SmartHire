@@ -19,7 +19,6 @@ try {
 }
 
 /* ----------------------------------- */
-
 require_once 'mail_config.php'; // Include the mail helper
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
