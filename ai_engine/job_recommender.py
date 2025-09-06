@@ -1,6 +1,7 @@
 from azure_client import client, DEPLOYMENT
 import json, re
 
+
 SYSTEM_PROMPT = """
 You are an expert career mentor and job-market analyst.
 
