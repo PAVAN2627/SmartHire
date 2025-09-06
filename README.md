@@ -4,6 +4,7 @@ SmartHire is a full-stack platform that empowers users to upload, analyze, and i
 
 
 
+
 ## Features
 
 - **Resume Upload & Analysis:** Upload your resume (PDF) and receive a detailed analysis of your skills and gaps.
