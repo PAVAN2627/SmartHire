@@ -56,7 +56,6 @@
             opacity: 0.1;
             animation: float 6s ease-in-out infinite;
         }
-
         .bg-shape:nth-child(1) {
             width: 300px;
             height: 300px;
