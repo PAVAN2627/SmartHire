@@ -9,5 +9,4 @@ client = AzureOpenAI(
     api_version=os.getenv("AZURE_OPENAI_API_VERSION"),
     azure_endpoint=os.getenv("AZURE_OPENAI_ENDPOINT")
 )
-
 DEPLOYMENT = os.getenv("AZURE_OPENAI_DEPLOYMENT")
